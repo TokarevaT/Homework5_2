@@ -1,0 +1,23 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: #D8BFD8;
+}
+
+div {
+    margin: 0 auto;
+    width: 500px;
+    height: 100%;
+}
+
+table {
+    border: 10px solid black;
+    width: 500px;
+    height: 500px;
+    border-collapse: collapse;
+}
+
+td {
+    border: 10px solid black;
+}
